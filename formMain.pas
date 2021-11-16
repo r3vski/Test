@@ -1,4 +1,4 @@
-unit frmMain;
+unit formMain;
 
 interface
 
